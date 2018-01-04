@@ -1,4 +1,4 @@
-#Les commandes GIT :
+# Les commandes GIT :
 
 git init : initialisation d'un git sur le repertoire courant
 
